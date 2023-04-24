@@ -1,5 +1,6 @@
-Lap Prediction Algorithm for Formula 1
-![image](https://user-images.githubusercontent.com/75729292/233993503-15a3eae1-76e7-444c-9dce-724b443e66ad.png)
+### Lap Prediction Algorithm for Formula 1
+
+![image](https://user-images.githubusercontent.com/75729292/233994055-e5f0d520-0f23-4481-babc-bad92e347b3c.png)
 
 Welcome to my lap prediction algorithm for Formula 1! In less than a day, I attempted to create a predictive model for F1 lap times.
 
