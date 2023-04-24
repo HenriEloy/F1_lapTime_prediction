@@ -1,8 +1,7 @@
-Hey, 
+Hey,
 
-I am going to try to make a lap prediction algorithm in less than a day !
+I'm going to try to create a lap prediction algorithm in less than a day!
 
-I firstly had the bad idea of adressing that problem as a regression issue. But seeing the results, I am now definitly sure it's a timeSeries issue ;) !
-With more data and more time, I'm sure there are plenty of room for improvment.
+I initially had the bad idea of approaching this problem as a regression problem. But seeing the results, I am now sure that it is a time series problem ;)! With more data and more time, I'm sure there is a lot of room for improvement.
 
-I hope that you find it interesting ! 
+I hope you find this interesting!
